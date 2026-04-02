@@ -2,14 +2,14 @@
 
 
 
-WG Working Group                                              Y. N. Here
-Internet-Draft                                    Your Organization Here
+AI Preferences                                               T. R. Zehta
+Internet-Draft                                          Creative Commons
 Intended status: Informational                              2 April 2026
 Expires: 4 October 2026
 
 
-                           TODO - Your title
-                  draft-todo-yourname-protocol-latest
+                      AIPREF Vocabulary Exclusions
+               draft-timidrobot-aipref-exclusions-latest
 
 Abstract
 
@@ -20,16 +20,18 @@ About This Document
    This note is to be removed before publishing as an RFC.
 
    The latest revision of this draft can be found at
-   https://example.com/LATEST.  Status information for this document may
-   be found at https://datatracker.ietf.org/doc/draft-todo-yourname-
-   protocol/.
+   https://TimidRobot.github.io/ietf-aipref-exclusions/draft-timidrobot-
+   aipref-exclusions.html.  Status information for this document may be
+   found at https://datatracker.ietf.org/doc/draft-timidrobot-aipref-
+   exclusions/.
 
-   Discussion of this document takes place on the WG Working Group
-   mailing list (mailto:WG@example.com), which is archived at
-   https://example.com/WG.
+   Discussion of this document takes place on the AI Preferences Working
+   Group mailing list (mailto:ai-control@ietf.org), which is archived at
+   https://mailarchive.ietf.org/arch/browse/ai-control/.  Subscribe at
+   https://www.ietf.org/mailman/listinfo/ai-control/.
 
    Source for this draft and an issue tracker can be found at
-   https://github.com/USER/REPO.
+   https://github.com/TimidRobot/ietf-aipref-exclusions.
 
 Status of This Memo
 
@@ -109,6 +111,6 @@ Acknowledgments
 
 Author's Address
 
-   Your Name Here
-   Your Organization Here
-   Email: your.email@example.com
+   Timid Robot Zehta
+   Creative Commons
+   Email: timid.robot@zehta.me

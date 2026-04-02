@@ -13,7 +13,6 @@
 /.refcache
 /.venv/
 /.vscode/
-/lib
 /node_modules/
 /versioned/
 Gemfile.lock

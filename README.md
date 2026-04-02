@@ -1,8 +1,8 @@
 <!-- regenerate: on (set to off if you edit this file) -->
 
-# TODO - Your title
+# AIPREF Vocabulary Exclusions
 
-This is the working area for the individual Internet-Draft, "TODO - Your title".
+This is the working area for the individual Internet-Draft, "AIPREF Vocabulary Exclusions".
 
 * [Editor's Copy](https://TimidRobot.github.io/ietf-aipref-exclusions/#go.draft-timidrobot-aipref-exclusions.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-timidrobot-aipref-exclusions)
@@ -13,7 +13,7 @@ This is the working area for the individual Internet-Draft, "TODO - Your title".
 ## Contributing
 
 See the
-[guidelines for contributions](https://github.com/TimidRobot/ietf-aipref-exclusions/blob//CONTRIBUTING.md).
+[guidelines for contributions](https://github.com/TimidRobot/ietf-aipref-exclusions/blob/main/CONTRIBUTING.md).
 
 The contributing file also has tips on how to make contributions, if you
 don't already know how to do that.

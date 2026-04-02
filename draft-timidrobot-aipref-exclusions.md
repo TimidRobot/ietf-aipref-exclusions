@@ -1,6 +1,5 @@
 ---
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "AIPREF Vocabulary Exclusions"
 category: info
 
 docname: draft-timidrobot-aipref-exclusions-latest
@@ -26,7 +25,7 @@ venue:
 author:
  -
     fullname: "Timid Robot Zehta"
-    organization: Your Organization Here
+    organization: "Creative Commons"
     email: "timid.robot@zehta.me"
 
 normative:

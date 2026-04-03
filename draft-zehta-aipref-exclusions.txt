@@ -9,21 +9,21 @@ Expires: 5 October 2026
 
 
                       AIPREF Vocabulary Exclusions
-               draft-timidrobot-aipref-exclusions-latest
+                  draft-zehta-aipref-exclusions-latest
 
 Abstract
 
-   This document proposes an update to the preference vocabulary [VOCAB]
-   in order to establish protected uses (exclusions).
+   This document proposes an update to the AI preferences vocabulary
+   [VOCAB] in order to establish protected uses (exclusions).
 
 About This Document
 
    This note is to be removed before publishing as an RFC.
 
    The latest revision of this draft can be found at
-   https://TimidRobot.github.io/ietf-aipref-exclusions/draft-timidrobot-
+   https://TimidRobot.github.io/ietf-aipref-exclusions/draft-zehta-
    aipref-exclusions.html.  Status information for this document may be
-   found at https://datatracker.ietf.org/doc/draft-timidrobot-aipref-
+   found at https://datatracker.ietf.org/doc/draft-zehta-aipref-
    exclusions/.
 
    Discussion of this document takes place on the AI Preferences Working
@@ -83,11 +83,18 @@ Table of Contents
 
 1.  Introduction
 
+   This proposal establishes exclusions within the AI preferences to
+   protect public interest activites.  These exclusions help balance
+   content holder agency, end user priority, and public interest
+   activities that remain essential for the open web.
+
    Creating explicit exclusions from AI preferences for public interest
    activities will create certainty and, therefore, strengthen their
    position.  Because this has the effect of shrinking the universe of
    situations where preferences can be ignored, this change also
    strengthens the effect of AI preferences.
+
+   This proposal can also be viewed as a [DIFF].
 
 2.  Conventions and Definitions
 
@@ -204,11 +211,20 @@ Table of Contents
 
 6.2.  Informative References
 
-   [ENDUSER]  Badii, F., Bailey, L., and J. Levy, "AI Preferences
+   [AIPREF-IMPACT]
+              Badii, F., Bailey, L., and J. Levy, "AI Preferences
               Signaling: End User Impact", Work in Progress, Internet-
-              Draft, draft-farzdusa-aipref-enduser-latest, n.d.,
+              Draft, draft-farzdusa-aipref-enduser-00, 26 November 2025,
               <https://datatracker.ietf.org/doc/html/draft-farzdusa-
-              aipref-enduser-latest>.
+              aipref-enduser-00>.
+
+   [DIFF]     "Proposal as diff · Issue #1 · TimidRobot/ietf-aipref-
+              exclusions", n.d., <https://github.com/TimidRobot/ietf-
+              aipref-exclusions/issues/1>.
+
+   [ENDUSERS] Nottingham, M., "The Internet is for End Users", RFC 8890,
+              August 2020,
+              <https://www.rfc-editor.org/rfc/rfc8890.html>.
 
 Acknowledgments
 

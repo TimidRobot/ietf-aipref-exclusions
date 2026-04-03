@@ -61,7 +61,15 @@ informative:
   DIFF:
     title: "Proposal as diff · Issue #1 · TimidRobot/ietf-aipref-exclusions"
     target: https://github.com/TimidRobot/ietf-aipref-exclusions/issues/1
-  ENDUSER: RFC8890
+  ENDUSERS:
+    title: "RFC 8890: The Internet is for End Users"
+    draft: 2020-08
+    seriesinfo:
+      rfc: 8890
+    target: https://www.rfc-editor.org/rfc/rfc8890.html
+    author:
+      -
+        fullname: M. Nottingham
 
 ...
 

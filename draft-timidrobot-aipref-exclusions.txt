@@ -99,11 +99,11 @@ Table of Contents
 
 3.  Statements of Preference
 
-   (See [VOCAB].)
+   See [VOCAB].
 
 3.1.  Conformance
 
-   (See [VOCAB].)
+   See [VOCAB].
 
 3.2.  Public Interest Exclusions
 
@@ -177,7 +177,7 @@ Table of Contents
 
 4.  Security Considerations
 
-   TODO Security
+   See [VOCAB].
 
 5.  IANA Considerations
 
@@ -205,11 +205,21 @@ Table of Contents
 6.2.  Informative References
 
    [ENDUSER]  Badii, F., Bailey, L., and J. Levy, "AI Preferences
-              Signaling: End User Impact", n.d..
+              Signaling: End User Impact", Work in Progress, Internet-
+              Draft, draft-farzdusa-aipref-enduser-latest, n.d.,
+              <https://datatracker.ietf.org/doc/html/draft-farzdusa-
+              aipref-enduser-latest>.
 
 Acknowledgments
 
-   TODO acknowledge.
+   The following individuals made significant contributions to this
+   document:
+
+   *  Diyana Noory
+
+   *  Sarah Pearson
+
+   *  Vito Quaglia
 
 Author's Address
 

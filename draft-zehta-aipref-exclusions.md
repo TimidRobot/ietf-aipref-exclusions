@@ -2,7 +2,7 @@
 title: "AIPREF Vocabulary Exclusions"
 category: info
 
-docname: draft-timidrobot-aipref-exclusions-latest
+docname: draft-zehta-aipref-exclusions-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
@@ -20,7 +20,7 @@ venue:
   mail: "ai-control@ietf.org"
   arch: "https://mailarchive.ietf.org/arch/browse/ai-control/"
   github: "TimidRobot/ietf-aipref-exclusions"
-  latest: "https://TimidRobot.github.io/ietf-aipref-exclusions/draft-timidrobot-aipref-exclusions.html"
+  latest: "https://TimidRobot.github.io/ietf-aipref-exclusions/draft-zehta-aipref-exclusions.html"
 
 author:
  -

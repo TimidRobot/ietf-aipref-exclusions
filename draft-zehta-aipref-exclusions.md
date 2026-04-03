@@ -174,10 +174,6 @@ ignoring preferences include—but are not limited to—free
 expression, safety, education, scholarship, research,
 preservation, interoperability, and accessibility.
 
-The following lists examples of cases
-where other priorities could lead someone to ignore expressed preferences
-in a particular situation:
-
 Because enforcement is not provided by this specification,
 the consequences of ignoring preferences could vary
 depending upon how a given legal jurisdiction recognizes preferences.

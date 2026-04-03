@@ -46,9 +46,9 @@ normative:
 informative:
   AIPREF-IMPACT:
     title: "AI Preferences Signaling: End User Impact"
-    draft: draft-farzdusa-aipref-enduser-date
+    draft: 2025-11-26
     seriesinfo:
-      Internet-Draft: draft-farzdusa-aipref-enduser-latest
+      Internet-Draft: draft-farzdusa-aipref-enduser-00
     author:
       -
         fullname: Farzaneh Badii

@@ -44,7 +44,7 @@ normative:
         organization: Mozilla
 
 informative:
-  ENDUSER:
+  AIPREF-IMPACT:
     title: "AI Preferences Signaling: End User Impact"
     draft: draft-farzdusa-aipref-enduser-date
     seriesinfo:
@@ -58,12 +58,16 @@ informative:
         organization: Internet Archive
       -
         fullname: Jo Levy
+  DIFF:
+    title: "Proposal as diff · Issue #1 · TimidRobot/ietf-aipref-exclusions"
+    target: https://github.com/TimidRobot/ietf-aipref-exclusions/issues/1
+  ENDUSER: RFC8890
 
 ...
 
 --- abstract
 
-This document proposes an update to the preference vocabulary {{VOCAB}} in
+This document proposes an update to the AI preferences vocabulary {{VOCAB}} in
 order to establish protected uses (exclusions).
 
 
@@ -71,10 +75,17 @@ order to establish protected uses (exclusions).
 
 # Introduction
 
+This proposal establishes exclusions within the AI preferences to protect
+public interest activites. These exclusions help balance content holder agency,
+end user priority, and public interest activities that remain essential for the
+open web.
+
 Creating explicit exclusions from AI preferences for public interest activities
 will create certainty and, therefore, strengthen their position. Because this
 has the effect of shrinking the universe of situations where preferences can be
 ignored, this change also strengthens the effect of AI preferences.
+
+This proposal can also be viewed as a {{DIFF}}.
 
 
 # Conventions and Definitions
@@ -86,9 +97,11 @@ ignored, this change also strengthens the effect of AI preferences.
 
 See {{VOCAB}}.
 
+
 ## Conformance
 
 See {{VOCAB}}.
+
 
 ## Public Interest Exclusions {#exclusions}
 

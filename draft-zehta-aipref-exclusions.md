@@ -46,7 +46,7 @@ normative:
 informative:
   AIPREF-IMPACT:
     title: "AI Preferences Signaling: End User Impact"
-    draft: 2025-11-26
+    date: 2025-11-26
     seriesinfo:
       Internet-Draft: draft-farzdusa-aipref-enduser-00
     author:
@@ -62,10 +62,10 @@ informative:
     title: "Proposal as diff · Issue #1 · TimidRobot/ietf-aipref-exclusions"
     target: https://github.com/TimidRobot/ietf-aipref-exclusions/issues/1
   ENDUSERS:
-    title: "RFC 8890: The Internet is for End Users"
-    draft: 2020-08
+    title: "The Internet is for End Users"
+    date: August 2020
     seriesinfo:
-      rfc: 8890
+      RFC: 8890
     target: https://www.rfc-editor.org/rfc/rfc8890.html
     author:
       -

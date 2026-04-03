@@ -4,10 +4,10 @@
 
 This is the working area for the individual Internet-Draft, "AIPREF Vocabulary Exclusions".
 
-* [Editor's Copy](https://TimidRobot.github.io/ietf-aipref-exclusions/#go.draft-timidrobot-aipref-exclusions.html)
-* [Datatracker Page](https://datatracker.ietf.org/doc/draft-timidrobot-aipref-exclusions)
-* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-timidrobot-aipref-exclusions)
-* [Compare Editor's Copy to Individual Draft](https://TimidRobot.github.io/ietf-aipref-exclusions/#go.draft-timidrobot-aipref-exclusions.diff)
+* [Editor's Copy](https://TimidRobot.github.io/ietf-aipref-exclusions/#go.draft-zehta-aipref-exclusions.html)
+* [Datatracker Page](https://datatracker.ietf.org/doc/draft-zehta-aipref-exclusions)
+* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-zehta-aipref-exclusions)
+* [Compare Editor's Copy to Individual Draft](https://TimidRobot.github.io/ietf-aipref-exclusions/#go.draft-zehta-aipref-exclusions.diff)
 
 
 ## Contributing

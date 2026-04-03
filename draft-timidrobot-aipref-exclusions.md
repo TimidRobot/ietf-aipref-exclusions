@@ -47,6 +47,8 @@ informative:
   ENDUSER:
     title: "AI Preferences Signaling: End User Impact"
     draft: draft-farzdusa-aipref-enduser-date
+    seriesinfo:
+      Internet-Draft: draft-farzdusa-aipref-enduser-latest
     author:
       -
         fullname: Farzaneh Badii
@@ -82,11 +84,11 @@ ignored, this change also strengthens the effect of AI preferences.
 
 # Statements of Preference {#model}
 
-(See {{VOCAB}}.)
+See {{VOCAB}}.
 
 ## Conformance
 
-(See {{VOCAB}}.)
+See {{VOCAB}}.
 
 ## Public Interest Exclusions {#exclusions}
 
@@ -162,7 +164,7 @@ depending upon how a given legal jurisdiction recognizes preferences.
 
 # Security Considerations
 
-TODO Security
+See {{VOCAB}}.
 
 
 # IANA Considerations
@@ -175,4 +177,8 @@ This document has no IANA actions.
 # Acknowledgments
 {:numbered="false"}
 
-TODO acknowledge.
+The following individuals made significant contributions to this document:
+
+* Diyana Noory
+* Sarah Pearson
+* Vito Quaglia

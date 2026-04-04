@@ -121,8 +121,8 @@ Regardless of the preferences expressed, the following public interest uses are 
     develop or use tools that detect harmful content according to established
     terms of use.
 
-* Any individual can use the assets for accessibility and internationalization
-  & localization
+* Anyone can use the assets for internationalization and localization, and for
+  accessibility tools to aid individuals with accessibility needs
 
   * For example: Individuals with accessibility needs may utilize software that
     uses the assets to access automated captions or generate accessible
@@ -134,9 +134,8 @@ Regardless of the preferences expressed, the following public interest uses are 
   * For example: An archive that preserves preferences may use the assets to
     improve the metadata associated with assets or help with discoverability.
 
-* Qualified organizations under EU DSM Directive Art 3 (research organisations
-  and cultural heritage institutions) can use the assets for analysis &
-  research
+* Cultural heritage institutions and not-for-profit research organisations can
+  use the assets for analysis and research
 
   * For example: A cultural heritage organization  may use the assets to
     provide more useful, reliable, or discoverable access to historical web

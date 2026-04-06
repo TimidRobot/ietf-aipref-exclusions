@@ -84,14 +84,11 @@ order to establish protected uses (exclusions).
 # Introduction
 
 This proposal establishes exclusions within the AI preferences to protect
-public interest activites. These exclusions help balance content holder agency,
-end user priority, and public interest activities that remain essential for the
-open web.
-
-Creating explicit exclusions from AI preferences for public interest activities
-will create certainty and, therefore, strengthen their position. Because this
-has the effect of shrinking the universe of situations where preferences can be
-ignored, this change also strengthens the effect of AI preferences.
+public interest activities. These exclusions help balance content holder
+agency, end user priority, and public interest activities that remain essential
+for the open web. Creating explicit exclusions from AI preferences for public
+interest activities will create certainty and, therefore, strengthen their
+position.
 
 This proposal can also be viewed as a {{DIFF}}.
 

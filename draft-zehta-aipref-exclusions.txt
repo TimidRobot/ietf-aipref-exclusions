@@ -123,7 +123,7 @@ Table of Contents
          assets to develop or use tools that detect harmful content
          according to established terms of use.
 
-   *  Anyone can use the assets for internationalization and
+   *  Any end user can use the assets for internationalization and
       localization, and for accessibility tools to aid individuals with
       accessibility needs
 

@@ -33,7 +33,7 @@ normative:
     title: "A Vocabulary For Expressing AI Usage Preferences"
     date: draft-ietf-aipref-vocab-date
     seriesinfo:
-      Internet-Draft: draft-ietf-aipref-vocab-latest
+      Internet-Draft: draft-ietf-aipref-vocab-05
     author:
       -
         fullname: Paul Keller
@@ -134,7 +134,7 @@ Regardless of the preferences expressed, the following public interest uses are 
   * For example: An archive that preserves preferences may use the assets to
     improve the metadata associated with assets or help with discoverability.
 
-* Cultural heritage institutions and not-for-profit research organisations can
+* Cultural heritage institutions and not-for-profit research organizations can
   use the assets for analysis and research
 
   * For example: A cultural heritage organization  may use the assets to

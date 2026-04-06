@@ -121,8 +121,8 @@ Regardless of the preferences expressed, the following public interest uses are 
     develop or use tools that detect harmful content according to established
     terms of use.
 
-* Anyone can use the assets for internationalization and localization, and for
-  accessibility tools to aid individuals with accessibility needs
+* Any end user can use the assets for internationalization and localization,
+  and for accessibility tools to aid individuals with accessibility needs
 
   * For example: Individuals with accessibility needs may utilize software that
     uses the assets to access automated captions or generate accessible

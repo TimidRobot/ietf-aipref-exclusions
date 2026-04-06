@@ -134,8 +134,8 @@ Regardless of the preferences expressed, the following public interest uses are 
   * For example: An archive that preserves preferences may use the assets to
     improve the metadata associated with assets or help with discoverability.
 
-* Cultural heritage institutions and not-for-profit research organizations can
-  use the assets for analysis and research
+* Cultural heritage institutions and not-for-profit research and/or educational
+  organizations can use the assets for analysis and research
 
   * For example: A cultural heritage organization  may use the assets to
     provide more useful, reliable, or discoverable access to historical web

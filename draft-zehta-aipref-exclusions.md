@@ -90,6 +90,8 @@ for the open web. Creating explicit exclusions from AI preferences for public
 interest activities will create certainty and, therefore, strengthen their
 position.
 
+It proposes a new "Public Interest Exclusions" section in {{VOCAB}}.
+
 This proposal can also be viewed as a {{DIFF}}.
 
 
@@ -137,42 +139,6 @@ Regardless of the preferences expressed, the following public interest uses are 
   * For example: A cultural heritage organization  may use the assets to
     provide more useful, reliable, or discoverable access to historical web
     collections.
-
-
-## Applicability and Effect {#applicability}
-
-This specification provides a set of definitions for different
-categories of use, plus a system for associating simple
-preferences to each (allow, disallow, or unknown; see {{model}}).
-
-This specification does not provide any enforcement mechanism
-for those preferences, and conformance to it does not encompass
-whether preferences are actually respected during data processing.
-
-Preferences do not themselves create rights or prohibitions,
-either in the positive or the negative. Other mechanisms—technical,
-legal, contractual, or otherwise—might enforce stated preferences
-and thereby determine the consequences of following or not following
-a stated preference.
-
-An entity that receives usage preferences MAY choose to respect
-those preferences it has discovered, according to
-an understanding of how the asset is used,
-how that usage corresponds to the usage categories
-where preferences have been stated,
-and the applicable legal context.
-
-Usage preferences can be ignored due to express agreements
-between relevant parties, explicit provisions of law, or
-the exercise of discretion in situations where widely recognized
-priorities justify doing so. Priorities that could justify
-ignoring preferences include—but are not limited to—free
-expression, safety, education, scholarship, research,
-preservation, interoperability, and accessibility.
-
-Because enforcement is not provided by this specification,
-the consequences of ignoring preferences could vary
-depending upon how a given legal jurisdiction recognizes preferences.
 
 
 # Security Considerations

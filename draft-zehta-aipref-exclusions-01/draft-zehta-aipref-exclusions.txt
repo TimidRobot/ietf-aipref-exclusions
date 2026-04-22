@@ -1,0 +1,205 @@
+
+
+
+
+AI Preferences                                               T. R. Zehta
+Internet-Draft                                          Creative Commons
+Intended status: Informational                             22 April 2026
+Expires: 24 October 2026
+
+
+                      AIPREF Vocabulary Exclusions
+                  draft-zehta-aipref-exclusions-latest
+
+Abstract
+
+   This document proposes an update to the AI preferences vocabulary
+   [VOCAB] in order to establish protected uses (exclusions).
+
+About This Document
+
+   This note is to be removed before publishing as an RFC.
+
+   The latest revision of this draft can be found at
+   https://TimidRobot.github.io/ietf-aipref-exclusions/draft-zehta-
+   aipref-exclusions.html.  Status information for this document may be
+   found at https://datatracker.ietf.org/doc/draft-zehta-aipref-
+   exclusions/.
+
+   Discussion of this document takes place on the AI Preferences Working
+   Group mailing list (mailto:ai-control@ietf.org), which is archived at
+   https://mailarchive.ietf.org/arch/browse/ai-control/.  Subscribe at
+   https://www.ietf.org/mailman/listinfo/ai-control/.
+
+   Source for this draft and an issue tracker can be found at
+   https://github.com/TimidRobot/ietf-aipref-exclusions.
+
+Status of This Memo
+
+   This Internet-Draft is submitted in full conformance with the
+   provisions of BCP 78 and BCP 79.
+
+   Internet-Drafts are working documents of the Internet Engineering
+   Task Force (IETF).  Note that other groups may also distribute
+   working documents as Internet-Drafts.  The list of current Internet-
+   Drafts is at https://datatracker.ietf.org/drafts/current/.
+
+   Internet-Drafts are draft documents valid for a maximum of six months
+   and may be updated, replaced, or obsoleted by other documents at any
+   time.  It is inappropriate to use Internet-Drafts as reference
+   material or to cite them other than as "work in progress."
+
+   This Internet-Draft will expire on 24 October 2026.
+
+Copyright Notice
+
+   Copyright (c) 2026 IETF Trust and the persons identified as the
+   document authors.  All rights reserved.
+
+   This document is subject to BCP 78 and the IETF Trust's Legal
+   Provisions Relating to IETF Documents (https://trustee.ietf.org/
+   license-info) in effect on the date of publication of this document.
+   Please review these documents carefully, as they describe your rights
+   and restrictions with respect to this document.  Code Components
+   extracted from this document must include Revised BSD License text as
+   described in Section 4.e of the Trust Legal Provisions and are
+   provided without warranty as described in the Revised BSD License.
+
+Table of Contents
+
+   1.  Introduction
+   2.  Conventions and Definitions
+   3.  Statements of Preference
+     3.1.  Conformance
+     3.2.  Public Interest Exclusions
+   4.  Security Considerations
+   5.  IANA Considerations
+   6.  References
+     6.1.  Normative References
+     6.2.  Informative References
+   Acknowledgments
+   Author's Address
+
+1.  Introduction
+
+   This proposal establishes exclusions within the AI preferences to
+   protect public interest activities.  These exclusions help balance
+   content holder agency, end user priority, and public interest
+   activities that remain essential for the open web.  Creating explicit
+   exclusions from AI preferences for public interest activities will
+   create certainty and, therefore, strengthen their position.
+
+   It proposes a new "Public Interest Exclusions" section in [VOCAB].
+
+   This proposal can also be viewed as a [DIFF].
+
+2.  Conventions and Definitions
+
+   The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT",
+   "SHOULD", "SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED", "MAY", and
+   "OPTIONAL" in this document are to be interpreted as described in
+   BCP 14 [RFC2119] [RFC8174] when, and only when, they appear in all
+   capitals, as shown here.
+
+3.  Statements of Preference
+
+   See [VOCAB].
+
+3.1.  Conformance
+
+   See [VOCAB].
+
+3.2.  Public Interest Exclusions
+
+   Regardless of the preferences expressed, the following public
+   interest uses are excluded:
+
+   *  Anyone can use the assets for malicious content detection
+
+      -  For example: A website that permits user uploads may use the
+         assets to develop or use tools that detect harmful content
+         according to established terms of use.
+
+   *  Any end user can use the assets for internationalization and
+      localization, and for accessibility tools to aid individuals with
+      accessibility needs
+
+      -  For example: Individuals with accessibility needs may utilize
+         software that uses the assets to access automated captions or
+         generate accessible formats.
+
+   *  Organizations that preserve expressed preferences can use the
+      assets for public archiving
+
+      -  For example: An archive that preserves preferences may use the
+         assets to improve the metadata associated with assets or help
+         with discoverability.
+
+   *  Cultural heritage institutions and not-for-profit research and/or
+      educational organizations can use the assets for analysis and
+      research
+
+      -  For example: A cultural heritage organization may use the
+         assets to provide more useful, reliable, or discoverable access
+         to historical web collections.
+
+4.  Security Considerations
+
+   See [VOCAB].
+
+5.  IANA Considerations
+
+   This document has no IANA actions.
+
+6.  References
+
+6.1.  Normative References
+
+   [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
+              Requirement Levels", BCP 14, RFC 2119,
+              DOI 10.17487/RFC2119, March 1997,
+              <https://www.rfc-editor.org/rfc/rfc2119>.
+
+   [RFC8174]  Leiba, B., "Ambiguity of Uppercase vs Lowercase in RFC
+              2119 Key Words", BCP 14, RFC 8174, DOI 10.17487/RFC8174,
+              May 2017, <https://www.rfc-editor.org/rfc/rfc8174>.
+
+   [VOCAB]    Keller, P. and M. Thomson, Ed., "A Vocabulary For
+              Expressing AI Usage Preferences", Work in Progress,
+              Internet-Draft, draft-ietf-aipref-vocab-05, April 2026,
+              <https://datatracker.ietf.org/doc/html/draft-ietf-aipref-
+              vocab-05>.
+
+6.2.  Informative References
+
+   [AIPREF-IMPACT]
+              Badii, F., Bailey, L., and J. Levy, "AI Preferences
+              Signaling: End User Impact", Work in Progress, Internet-
+              Draft, draft-farzdusa-aipref-enduser-00, 26 November 2025,
+              <https://datatracker.ietf.org/doc/html/draft-farzdusa-
+              aipref-enduser-00>.
+
+   [DIFF]     "Proposal as diff · Issue #1 · TimidRobot/ietf-aipref-
+              exclusions", n.d., <https://github.com/TimidRobot/ietf-
+              aipref-exclusions/issues/1>.
+
+   [ENDUSERS] Nottingham, M., "The Internet is for End Users", RFC 8890,
+              August 2020,
+              <https://www.rfc-editor.org/rfc/rfc8890.html>.
+
+Acknowledgments
+
+   The following individuals made significant contributions to this
+   document:
+
+   *  Diyana Noory
+
+   *  Sarah Pearson
+
+   *  Vito Quaglia
+
+Author's Address
+
+   Timid Robot Zehta
+   Creative Commons
+   Email: timid@creativecommons.org

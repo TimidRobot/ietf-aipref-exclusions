@@ -105,7 +105,7 @@ This proposal can also be viewed as a {{DIFF}}.
 See {{VOCAB}}.
 
 
-## Conformance
+## Understanding Preferences {#understanding}
 
 See {{VOCAB}}.
 

@@ -11,9 +11,9 @@ v: 3
 area: "Web and Internet Transport"
 workgroup: "AI Preferences"
 keyword:
- - next generation
- - unicorn
- - sparkling distributed ledger
+ - AI Preferences
+ - Artificial intelligence
+ - Public Interest
 venue:
   group: "AI Preferences"
   type: "Working Group"
